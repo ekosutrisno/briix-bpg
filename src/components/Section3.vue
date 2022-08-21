@@ -1,7 +1,7 @@
 <template>
     <section class="lg:min-h-[633px] py-[134px] briix-container bg-white">
-        <h1 class="font-manrope text-center mb-12 font-extrabold text-5xl">Operation</h1>
-        <div class="grid lg:grid-cols-2">
+        <div class="font-manrope text-center first-letter:font-extrabold text-5xl">Operation</div>
+        <div class="grid lg:grid-cols-2  mt-[75px] ">
             <div>
                 <div class="lg:h-full lg:w-[498px] bg-[#949494]">
                 </div>
@@ -47,7 +47,7 @@
                 </tr>
             </tbody>
         </table>
-        <img class="mx-auto" src="/SS-02.png" alt="table-img">
+        <img class="mx-auto my-[134px]" src="/SS-02.png" alt="table-img">
     </section>
 </template>
 

@@ -1,6 +1,6 @@
 <template>
     <section class="lg:min-h-[633px] py-[134px] briix-container bg-white">
-        <h1 class="font-manrope text-center mb-12 font-extrabold text-5xl">Operation</h1>
+        <h1 class="font-manrope text-center mb-12 font-extrabold text-5xl">Social Responsibility</h1>
         <div class="grid lg:grid-cols-2">
             <div>
                 <div class="font-manrope text-xl text-gray-600 leading-[34px]">
